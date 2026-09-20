@@ -104,21 +104,21 @@
     "twitter": ""
   },
   "location": {
-    "city": "Tehran, Iran",
-    "address": "Shahrak Valiasr",
-    "mapLink": ""
+    "city": "تهران",
+    "address": "اتوسرویس داوودی",
+    "mapLink": "https://nshn.ir/e7_bvorhIxzU7n"
   },
   "theme": {
-    "accentPreset": "blue",
+    "accentPreset": "orange",
     "font": "Vazirmatn",
     "layout": "modern",
     "bgMode": "solid",
     "cardColor": "#0d1117",
     "bgColor1": "#0d1117",
     "bgColor2": "#3b82f6",
-    "textMode": "auto",
-    "nameColor": "#ffffff",
-    "jobColor": "#22d3ee",
+    "textMode": "custom",
+    "nameColor": "#eeff00",
+    "jobColor": "#1e00ff",
     "bioColor": "#94a3b8",
     "heroColor": "#0d1117"
   },
@@ -128,7 +128,7 @@
     "location": true,
     "email": true,
     "website": true,
-    "bio": true,
+    "bio": false,
     "about": true,
     "services": true,
     "portfolio": true,
